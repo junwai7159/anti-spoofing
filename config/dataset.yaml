@@ -1,0 +1,11 @@
+# Dataset configuration for YOLO
+
+train: C:/Users/User/OneDrive - sjtu.edu.cn/SJTU/Road to Machine Learning Engineer/Job Tech Assessment/wise ai/data/processed/images/train  # path to training images
+val: C:/Users/User/OneDrive - sjtu.edu.cn/SJTU/Road to Machine Learning Engineer/Job Tech Assessment/wise ai/data/processed/images/val  # path to validation images
+test: C:/Users/User/OneDrive - sjtu.edu.cn/SJTU/Road to Machine Learning Engineer/Job Tech Assessment/wise ai/data/processed/images/test  # path to test images
+
+# Number of classes
+nc: 2
+
+# Class names
+names: ['live', 'spoof']

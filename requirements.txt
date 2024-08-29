@@ -9,4 +9,3 @@ streamlit==1.37.1
 ultralytics==8.2.74
 ultralytics-thop==2.0.0
 tqdm==4.66.5
---no-cache-dir
